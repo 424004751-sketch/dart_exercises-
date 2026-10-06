@@ -3,7 +3,7 @@
 ## Student Information
 
 Name: Jerry Knives C. Cañilas
-Section: BSIT-2.8
+Section: BSIT-3.2
 
 ## Description
 
